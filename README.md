@@ -7,7 +7,7 @@
 
 ## Hey, I'm Mourice 👋
 
-Final-year **Electrical Engineering** student at **Tel Aviv University**, graduating 2026. I work at the intersection of silicon, circuits, and software — from designing chips at the transistor level to writing the tools that help understand them.
+Fresh graduate **Electrical Engineering** from **Tel Aviv University**, graduating 2026.
 
 Right now I'm exploring **AI agents and AI-assisted hardware tools** — genuinely curious about how intelligent tooling is reshaping the way we design and validate hardware.
 
