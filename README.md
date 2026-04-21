@@ -1,52 +1,84 @@
+<div align="center">
 
-<h1>Hi There, I'm Tushar Mittal <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mourice%20Kalosh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Electrical%20Engineer%20%7C%20VLSI%20%7C%20Hardware%20Design&descAlignY=58&descAlign=50" width="100%"/>
 
-I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+</div>
 
-## Skill Set :muscle:
+## Hey, I'm Mourice 👋
 
-These are some of the major technologies that I use or have worked on in the past:
+Final-year **Electrical Engineering** student at **Tel Aviv University**, graduating 2026. I work at the intersection of silicon, circuits, and software — from designing chips at the transistor level to writing the tools that help understand them.
 
-**Programming Languages**
+Right now I'm exploring **AI agents and AI-assisted hardware tools** — genuinely curious about how intelligent tooling is reshaping the way we design and validate hardware.
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+---
 
-**Libraries and Frameworks**
+<div align="center">
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=VLSI+Design+%7C+PCB+Layout+%7C+Hardware+Integration;Cadence+Virtuoso+%7C+KiCad+%7C+Synopsys+DC;Exploring+AI+Agents+%2B+AI-Assisted+EDA;Looking+for+my+first+role+in+tech+%F0%9F%9A%80;Open+to+opportunities+%E2%80%94+happy+to+connect!" alt="Typing SVG"/>
 
-**Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|--|
 
-**Databases**
+</div>
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+---
 
-**Tools**
+## What I Work With
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
-<br>
+**Languages & HDL**
 
-## Some of my stats :bar_chart:
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
-|--|--|
+**EDA & Design Tools**
 
-<br>
+![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-0066CC?style=for-the-badge&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Synopsys](https://img.shields.io/badge/Synopsys%20DC-6A0DAD?style=for-the-badge&logoColor=white)
+![PSpice](https://img.shields.io/badge/OrCAD%20%2F%20PSpice-E60026?style=for-the-badge&logoColor=white)
 
-## Let's Connect :handshake:
+**Lab**
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
-|--|--|
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-2E8B57?style=for-the-badge&logoColor=white)
+![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-FF8C00?style=for-the-badge&logoColor=white)
+![Spectrum Analyzer](https://img.shields.io/badge/Spectrum%20Analyzer-8B0000?style=for-the-badge&logoColor=white)
 
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+**Currently Exploring**
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI--Assisted%20EDA-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## Things I've Built
+
+**Roboboat** — Autonomous Surface Vessel *(Final Project)*
+> Power management and hardware integration for an autonomous boat. KiCad schematics, component selection, hands-on soldering and system testing in the field.
+
+**4-bit ALU** — Full VLSI Flow
+> Transistor-level design to GDS layout in Cadence Virtuoso. DRC/LVS clean, post-layout simulation verified.
+
+**Custom CPU Toolchain**
+> C-based assembler and ISA simulator for a custom processor architecture, with memory-mapped I/O support. Bridging hardware and low-level software.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mourice-kalosh-08bbb4273/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=kaloshmourice2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
