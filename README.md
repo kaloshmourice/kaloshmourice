@@ -16,7 +16,7 @@ Right now I'm exploring **AI agents and AI-assisted hardware tools** — genuine
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=VLSI+Design+%7C+PCB+Layout+%7C+Hardware+Integration;Cadence+Virtuoso+%7C+KiCad+%7C+Synopsys+DC;Exploring+AI+Agents+%2B+AI-Assisted+EDA;Looking+for+my+first+role+in+tech+%F0%9F%9A%80;Open+to+opportunities+%E2%80%94+happy+to+connect!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=VLSI+Design+%7C+PCB+Layout+%7C+Hardware+Integration;Cadence+Virtuoso+%7C+KiCad+%7C+Synopsys+DC;Exploring+AI+Agents+%2B+AI-Assisted+EDA;Looking+for+my+first+role+in+tech+%F0%9F%9A%80;Open+to+opportunities+%E2%80%94+happy+to+connect!" alt="Typing SVG"/>
 
 
 
