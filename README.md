@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mourice%20Kaloush&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Electrical%20Engineer%20%7C%20VLSI%20%7C%20Hardware%20Design&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mourice%20Kalosh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Electrical%20Engineer%20%7C%20VLSI%20%7C%20Hardware%20Design&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
 
